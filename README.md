@@ -1,2 +1,2 @@
 # learning-python
-Python Learning
+Python Learning - Good Start is Half Done.
